@@ -58,6 +58,9 @@ DOI:
 ### Abstract
 tbd.
 
+### Acknowledgements
+This research was funded by the Federal Ministry of Economic Affairs and Climate Action (BMWK) as part of the “SmartMan” project (13IK033J).
+
 <!--
 ---------------------------------------------------------
 Resources
